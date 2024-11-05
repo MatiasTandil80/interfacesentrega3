@@ -1,0 +1,37 @@
+#idCanvas{
+    border-radius: 20px;
+}
+
+#input-alias-android {
+    left: 625px; 
+    top: 440px;
+    width: 350px; /* Agregar 'px' para definir la unidad de medida */
+    height: 60px; /* Agregar 'px' para definir la unidad de medida */
+    border: 5px solid #1CA626;
+    background-color: #A69BD2;
+    border-radius: 20px;
+    position: absolute; /* Para poder posicionarlo sobre el canvas */
+    font-size: 30px; /* Tamaño de fuente más grande */
+    padding-left: 20px; /* Espacio interno para que el texto no toque el borde */
+    font-family: 'Nunito', sans-serif; /* Aplicar la fuente Nunito */
+    font-weight: 700; /* Negrita */
+    color:#68386F;
+    /*display: none; /* Oculto por defecto */
+}
+
+#input-alias-apple {
+    left: 1145px; 
+    top: 440px;
+    width: 350px; /* Agregar 'px' para definir la unidad de medida */
+    height: 60px; /* Agregar 'px' para definir la unidad de medida */
+    border: 5px solid #1486E2;
+    background-color: #A69BD2;
+    border-radius: 20px;
+    position: absolute; /* Para poder posicionarlo sobre el canvas */
+    font-size: 30px; /* Tamaño de fuente más grande */
+    padding-left: 20px; /* Espacio interno para que el texto no toque el borde */
+    font-family: 'Nunito', sans-serif; /* Aplicar la fuente Nunito */
+    font-weight: 700; /* Negrita */
+    color:#68386F;
+    /*display: none; /* Oculto por defecto */
+}
